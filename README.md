@@ -21,7 +21,8 @@ The frontend of Chat Buddy is developed using React, a popular JavaScript librar
   - Socket.IO is integrated to handle real-time communication between users. It triggers events for user login, messages, and disconnections.
   - The user list is dynamically updated when new users log in or existing users log out. React's reactivity ensures seamless UI updates.
 
-![LoginPage](https://github.com/suchithreddy02/ChatBuddy/assets/56992293/449e98e4-6351-415b-9ada-66fdded85d21)
+![ChatPage](https://github.com/suchithreddy02/ChatBuddy/assets/56992293/1e5a18b4-4637-4ef7-bc0c-a4f7b3897537)
+
 
 ##BackEnd Development
 The backend of Chat Buddy is built using Node.js, Express.js, and MongoDB. It provides the necessary RESTful APIs for user registration, retrieval of active user lists, and handling WebSocket connections for real-time updates. Below is a detailed breakdown of the backend development:
